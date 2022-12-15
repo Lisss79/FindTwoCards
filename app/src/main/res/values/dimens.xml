@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardsOffset">10dp</dimen>
+    <dimen name="picOffset">10dp</dimen>
+    <dimen name="cardsRadius">10dp</dimen>
+</resources>
